@@ -1,0 +1,33 @@
+
+h4 {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-style: solid Black;
+    font-size: 35px;
+    padding-top: -5%;
+    padding-left: 5%;
+    text-align: Center; 
+    /* vertical-align: Top; */
+     /* font-weight: 900; */
+     
+     margin-top: 20%;
+     margin-bottom: 5%;
+}
+
+ul.hr {
+  margin: 0; /* Обнуляем значение отступов */
+  padding: 4px; /* Значение полей */
+  color: white;
+ }
+ ul.hr li {
+  display: inline; /* Отображать как строчный элемент */
+  margin-right: 15px; /* Отступ слева */
+  
+  padding: 3px; /* Поля вокруг текста */
+ }
+
+.elements {
+  display: inline;
+  font-size: 35px;
+  margin-right: 1100px;
+}
